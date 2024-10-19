@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="file" version="1.6" method="upgrade" client="site">
+    <name><![CDATA[Astroid - pt-PT]]></name>
+    <author><![CDATA[jam1974]]></author>
+    <authorurl></authorurl>
+    <copyright>Copyright (C)2024 Todos os direitos reservados.</copyright>
+    <license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
+    <version>1.0.2</version>
+    <creationDate>17.05.2024</creationDate>
+    <description><![CDATA[Arquivo de tradução em Português para o Astroid Framework.]]></description>
+
+    <fileset>
+        <files folder="frontend" target="language/pt-PT">
+            <filename>pt-PT.astroid.ini</filename>
+            <filename>pt-PT.tpl_astroid_template_two.ini</filename>
+        </files>
+    </fileset>
+</extension>
